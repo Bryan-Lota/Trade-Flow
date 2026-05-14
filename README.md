@@ -1,1 +1,1 @@
-# Trade-Flow
+TradeFlow is a milestone-triggered escrow payment rail for West African commodity exporters, built on Stellar + TrustlessWork. Nigerian exporters wait 60–90 days for LC payments — 72% fail first review. TradeFlow replaces the LC entirely: buyers lock USDC in escrow at deal inception, released in tranches as milestones are verified: farm pickup → port clearance → delivery confirmed. No banks. No delays. Just trade that works.
